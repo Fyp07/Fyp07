@@ -49,6 +49,8 @@
 
 [![FT_PRINTF](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2000&pause=999&color=8FBDDE&center=true&vCenter=true&width=420&lines=★+VERIFIED+★+FT_PRINTF+IN+PROGRESS+★)](https://github.com/Fyp07/ft_printf)
 
+<img src="https://github.com/Fyp07/Fyp07/raw/main/assets/IP_PRINTF_SUITCASE.svg" width="200"/>
+
 ![C](https://img.shields.io/badge/Language-C-8fbdde?style=flat-square&labelColor=ffa93f)
 ![Status](https://img.shields.io/badge/STATUS-IN%20PROGRESS-d8e9a2?style=flat-square&labelColor=ffa93f)
 
