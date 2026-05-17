@@ -6,6 +6,7 @@
 <br/>
 
 [![42 Porto](https://img.shields.io/badge/42%20Porto-student-fac1b0?style=for-the-badge&labelColor=8fbdde)](https://www.42porto.com)
+[![intra](https://img.shields.io/badge/intra-fbarrada-fefcfd?style=for-the-badge&labelColor=2d1410)](https://profile.intra.42.fr/users/fbarrada)
 [![GitHub](https://img.shields.io/badge/Fyp07-fefcfd?style=for-the-badge&logo=github&logoColor=ffa93f)](https://github.com/Fyp07)
 
 <br/>
@@ -35,7 +36,7 @@
 
 ## ✦ THE PROJECTS ✦
 
-[![LIBFT](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=9999&pause=999&color=FAC1B0&center=true&vCenter=true&width=340&lines=★+VERIFIED+★+LIBFT+COMPLETED+★)](https://github.com/Fyp07/libft)
+[![LIBFT](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2000&pause=999&color=FAC1B0&center=true&vCenter=true&width=340&lines=★+VERIFIED+★+LIBFT+COMPLETED+★)](https://github.com/Fyp07/libft)
 
 <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/LIBFT_SUITCASE.svg" width="200"/>
 
@@ -46,10 +47,10 @@
 
 <br/>
 
-[![FT_PRINTF](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=9999&pause=999&color=8FBDDE&center=true&vCenter=true&width=340&lines=★+VERIFIED+★+FT_PRINTF+COMPLETED+★)](https://github.com/Fyp07/ft_printf)
+[![FT_PRINTF](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2000&pause=999&color=8FBDDE&center=true&vCenter=true&width=420&lines=★+VERIFIED+★+FT_PRINTF+IN+PROGRESS+★)](https://github.com/Fyp07/ft_printf)
 
 ![C](https://img.shields.io/badge/Language-C-8fbdde?style=flat-square&labelColor=ffa93f)
-![Status](https://img.shields.io/badge/STATUS-COMPLETED-d8e9a2?style=flat-square&labelColor=ffa93f)
+![Status](https://img.shields.io/badge/STATUS-IN%20PROGRESS-d8e9a2?style=flat-square&labelColor=ffa93f)
 
 *Reimplementação do printf em C — variadic functions e múltiplos especificadores de formato.*
 
