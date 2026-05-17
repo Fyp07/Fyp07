@@ -5,8 +5,8 @@
 
 <br/>
 
-[![42 Porto](https://img.shields.io/badge/42%20Porto-student-fac1b0?style=for-the-badge&labelColor=8fbdde)](https://www.42porto.com)
-[![intra](https://img.shields.io/badge/intra-fbarrada-fefcfd?style=for-the-badge&labelColor=2d1410)](https://profile.intra.42.fr/users/fbarrada)
+[![42 Porto](https://img.shields.io/badge/42%20Porto-student-d8e9a2?style=for-the-badge&labelColor=8fbdde)](https://www.42porto.com)
+[![intra](https://img.shields.io/badge/intra-fbarrada-fac1b0?style=for-the-badge&labelColor=2d1410)](https://profile.intra.42.fr/users/fbarrada)
 [![GitHub](https://img.shields.io/badge/Fyp07-fefcfd?style=for-the-badge&logo=github&logoColor=ffa93f)](https://github.com/Fyp07)
 
 <br/>
@@ -68,9 +68,6 @@
 
 ## ✦ THE STATS ✦ 
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fyp07&show_icons=true&hide_border=true&bg_color=2d1410&title_color=ffa93f&icon_color=fac1b0&text_color=fefcfd"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fyp07&layout=compact&hide_border=true&bg_color=2d1410&title_color=ffa93f&text_color=fefcfd&langs_count=4"/>
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fyp07&hide_border=true&background=fcf1d1&ring=ffa93f&fire=ffa93f&currStreakLabel=ffa93f&sideLabels=2d1410&dates=2d1410&currStreakNum=2d1410&sideNums=2d1410"/>
@@ -84,6 +81,8 @@
 ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★
 
 *crafted with love · 42 Porto · Fyp07*
+
+★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4&height=100&section=footer&reversal=true" width="100%"/>
 
