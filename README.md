@@ -36,6 +36,8 @@
 
 [![LIBFT](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=9999&pause=999&color=FAC1B0&center=true&vCenter=true&width=340&lines=★+VERIFIED+★+LIBFT+COMPLETED+★)](https://github.com/Fyp07/libft)
 
+<img src="https://github.com/Fyp07/Fyp07/raw/main/assets/LIBFT.svg" width="200"/>
+
 ![C](https://img.shields.io/badge/Language-C-fac1b0?style=flat-square&labelColor=2d1410)
 ![Status](https://img.shields.io/badge/STATUS-COMPLETED-d8e9a2?style=flat-square&labelColor=2d1410)
 
