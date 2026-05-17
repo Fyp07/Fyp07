@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://github.com/Fyp07/Fyp07/raw/main/assets/CALLMEFELYPPE.gif" width="100%"/>
+<img src="https://github.com/Fyp07/Fyp07/raw/main/assets/CALLMEFELYPPE@2x.png" width="100%"/>
 </div>
 
 <br/>
@@ -10,11 +10,11 @@
 
 <br/>
 
-★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★
+<p align="center"><i>★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★</i></p>
 
-> *« if you're reading this, it's too late »*
+<p align="center"><i>« if you get lost, check the README »</i></p>
 
-★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★
+<p align="center"><i>★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★</i></p>
 
 </div>
 
