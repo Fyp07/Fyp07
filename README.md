@@ -6,7 +6,7 @@
 <br/>
 
 [![42 Porto](https://img.shields.io/badge/42%20Porto-student-d8e9a2?style=for-the-badge&labelColor=8fbdde)](https://www.42porto.com)
-[![intra](https://img.shields.io/badge/intra-fbarrada-fac1b0?style=for-the-badge&labelColor=2d1410)](https://profile.intra.42.fr/users/fbarrada)
+[![intra](https://img.shields.io/badge/intra-fbarrada-fac1b0?style=for-the-badge&labelColor=fcf1d1)](https://profile.intra.42.fr/users/fbarrada)
 [![GitHub](https://img.shields.io/badge/Fyp07-fefcfd?style=for-the-badge&logo=github&logoColor=ffa93f)](https://github.com/Fyp07)
 
 <br/>
@@ -58,7 +58,7 @@
 
 ![ft_printf](https://img.shields.io/badge/Project-ft_printf-8fbdde?style=flat-square&labelColor=ffa93f)
 ![C](https://img.shields.io/badge/Language-C-8fbdde?style=flat-square&labelColor=ffa93f)
-![Status](https://img.shields.io/badge/STATUS-IN%20PROGRESS-d8e9a2?style=flat-square&labelColor=ffa93f)
+![Status](https://img.shields.io/badge/STATUS-IN%20PROGRESS-fcf1d1?style=flat-square&labelColor=ffa93f)
 
 *Reimplementação do printf em C — variadic functions e múltiplos especificadores de formato.*
 
