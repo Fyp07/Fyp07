@@ -62,7 +62,7 @@ Porto, Portugal
 ![C](https://img.shields.io/badge/Language-C-8fbdde?style=flat-square&labelColor=ffa93f)
 ![Status](https://img.shields.io/badge/STATUS-COMPLETED-d8e9a2?style=flat-square&labelColor=ffa93f)
 
-*Reimplementação da standard library do C — strings, memória e listas ligadas do zero.*
+*Reimplementation of the C standard library: strings, memory, and linked lists from scratch.*
 
 <br/>
 
@@ -76,7 +76,7 @@ Porto, Portugal
 ![C](https://img.shields.io/badge/Language-C-8fbdde?style=flat-square&labelColor=ffa93f)
 ![Status](https://img.shields.io/badge/STATUS-IN%20PROGRESS-fcf1d1?style=flat-square&labelColor=ffa93f)
 
-*Reimplementação do printf em C — variadic functions e múltiplos especificadores de formato.*
+*Reimplementation of printf in C: variadic functions and multiple format specifiers.*
 
 </div>
 
@@ -98,7 +98,7 @@ Porto, Portugal
 
 ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★
 
-*crafted with love · 42 Porto · Fyp07*
+*call me if you get lost · 42 Porto · Fyp07*
 
 ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★
 
