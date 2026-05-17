@@ -23,6 +23,16 @@
 
 <div align="center">
 
+## ✦ ABOUT ME ✦
+
+</div>
+
+```txt
+Porto, Portugal
+42 Porto cadet · Learning C
+"I can do all things through Christ" · Phil 4:13
+```
+
 ## ✦ THE LANGUAGES ✦
 
 ![C](https://img.shields.io/badge/C-8fbdde?style=for-the-badge&logo=c&logoColor=2d1410)
