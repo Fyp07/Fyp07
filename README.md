@@ -1,6 +1,7 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4&height=200&section=header&text=CALL%20ME%20FELYPPE&fontSize=52&fontColor=f6f4c4&animation=fadeIn&fontAlignY=45&desc=★%20student%20%40%2042%20Porto%20★&descAlignY=65&descSize=15&descColor=ffa93f" width="100%"/>
+  
+<img src="https://github.com/Fyp07/Fyp07/raw/main/assets/CALLMEFELYPPE.gif" width="100%"/>
+</div>
 
 <br/>
 
