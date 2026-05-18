@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://github.com/Fyp07/Fyp07/raw/main/assets/CALLMEFELYPPE@2x.png" width="100%"/>
+<img src="https://github.com/Fyp07/Fyp07/raw/main/assets/CALLMEFELYPPE.gif" width="100%"/>
 </div>
 
 <br/>
