@@ -69,12 +69,26 @@ Porto, Portugal
 [![FT_PRINTF](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2000&pause=999&color=8FBDDE&center=true&vCenter=true&width=420&lines=★+VERIFIED+★+FT_PRINTF+IN+PROGRESS+★)](https://github.com/Fyp07/ft_printf)
 
 <a href="https://github.com/Fyp07/ft_printf">
-  <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/IP_PRINTF_SUITCASE_1.svg" width="200"/>
+  <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/FT_PRINTF_COMPLETED_1.svg" width="200"/>
 </a>
 
 ![ft_printf](https://img.shields.io/badge/Project-ft_printf-8fbdde?style=flat-square&labelColor=ffa93f)
 ![C](https://img.shields.io/badge/Language-C-8fbdde?style=flat-square&labelColor=ffa93f)
-![Status](https://img.shields.io/badge/STATUS-IN%20PROGRESS-fcf1d1?style=flat-square&labelColor=ffa93f)
+![Status](https://img.shields.io/badge/STATUS-COMPLETED-d8e9a2?style=flat-square&labelColor=ffa93f)
+
+*Reimplementation of printf in C: variadic functions and multiple format specifiers.*
+
+<br/>
+
+[![GET_NEXT_LINE](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2000&pause=999&color=8FBDDE&center=true&vCenter=true&width=420&lines=★+VERIFIED+★+GET_NEXT_LINE+IN+PROGRESS+★)](https://github.com/Fyp07/get_next_line)
+
+<a href="https://github.com/Fyp07/get_next_line">
+  <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/IP_GET_NEXT_LINE.svg" width="200"/>
+</a>
+
+![ft_printf](https://img.shields.io/badge/Project-get_next-line-8fbdde?style=flat-square&labelColor=ffa93f)
+![C](https://img.shields.io/badge/Language-C-8fbdde?style=flat-square&labelColor=ffa93f)
+![Status](https://img.shields.io/badge/STATUS-IN%20PROGRESS-d8e9a2?style=flat-square&labelColor=ffa93f)
 
 *Reimplementation of printf in C: variadic functions and multiple format specifiers.*
 
