@@ -90,7 +90,7 @@ Porto, Portugal
 ![C](https://img.shields.io/badge/Language-C-8fbdde?style=flat-square&labelColor=ffa93f)
 ![Status](https://img.shields.io/badge/STATUS-IN%20PROGRESS-d8e9a2?style=flat-square&labelColor=ffa93f)
 
-*Reimplementation of printf in C: variadic functions and multiple format specifiers.*
+*...*
 
 </div>
 
