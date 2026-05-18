@@ -80,13 +80,13 @@ Porto, Portugal
 
 <br/>
 
-[![GET_NEXT_LINE](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2000&pause=999&color=8FBDDE&center=true&vCenter=true&width=420&lines=★+VERIFIED+★+GET_NEXT_LINE+IN+PROGRESS+★)](https://github.com/Fyp07/get_next_line)
+[![GET_NEXT_LINE](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2000&pause=999&color=fcf1d1&center=true&vCenter=true&width=420&lines=★+VERIFIED+★+GET_NEXT_LINE+IN+PROGRESS+★)](https://github.com/Fyp07/get_next_line)
 
 <a href="https://github.com/Fyp07/get_next_line">
   <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/IP_GET_NEXT_LINE.svg" width="200"/>
 </a>
 
-![get_next_line](https://img.shields.io/badge/Project-get_next-line-8fbdde?style=flat-square&labelColor=ffa93f)
+![get_next_line](https://img.shields.io/badge/Project-get__next__line-8fbdde?style=flat-square&labelColor=ffa93f)
 ![C](https://img.shields.io/badge/Language-C-8fbdde?style=flat-square&labelColor=ffa93f)
 ![Status](https://img.shields.io/badge/STATUS-IN%20PROGRESS-d8e9a2?style=flat-square&labelColor=ffa93f)
 
