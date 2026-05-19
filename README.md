@@ -80,7 +80,7 @@ Porto, Portugal
 
 <br/>
 
-[![GET_NEXT_LINE](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2000&pause=999&color=fcf1d1&center=true&vCenter=true&width=420&lines=★+VERIFIED+★+GET_NEXT_LINE+IN+PROGRESS+★)](https://github.com/Fyp07/get_next_line)
+[![GET_NEXT_LINE](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2000&pause=999&color=fcf1d1&center=true&vCenter=true&width=450&lines=★+VERIFIED+★+GET_NEXT_LINE+IN+PROGRESS+★)](https://github.com/Fyp07/get_next_line)
 
 <a href="https://github.com/Fyp07/get_next_line">
   <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/IP_GET_NEXT_LINE.svg" width="200"/>
