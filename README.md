@@ -88,7 +88,7 @@ Porto, Portugal
 
 ![get_next_line](https://img.shields.io/badge/Project-get__next__line-8fbdde?style=flat-square&labelColor=ffa93f)
 ![C](https://img.shields.io/badge/Language-C-8fbdde?style=flat-square&labelColor=ffa93f)
-![Status](https://img.shields.io/badge/STATUS-IN%20PROGRESS-d8e9a2?style=flat-square&labelColor=ffa93f)
+![Status](https://img.shields.io/badge/STATUS-COMPLETED-d8e9a2?style=flat-square&labelColor=ffa93f)
 
 *A function that returns a line read from a
 file descriptor*
