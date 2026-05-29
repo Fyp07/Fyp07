@@ -80,15 +80,29 @@ Porto, Portugal
 
 <br/>
 
-[![GET_NEXT_LINE](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2000&pause=999&color=fcf1d1&center=true&vCenter=true&width=450&lines=★+VERIFIED+★+GET_NEXT_LINE+IN+PROGRESS+★)](https://github.com/Fyp07/get_next_line)
+[![GET_NEXT_LINE](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2000&pause=999&color=fcf1d1&center=true&vCenter=true&width=450&lines=★+VERIFIED+★+GET_NEXT_LINE+COMPLETED+★)](https://github.com/Fyp07/get_next_line)
 
 <a href="https://github.com/Fyp07/get_next_line">
-  <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/IP_GET_NEXT_LINE.svg" width="200"/>
+  <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/GET_NEXT_LINE_COMPLETED.svg" width="200"/>
 </a>
 
 ![get_next_line](https://img.shields.io/badge/Project-get__next__line-8fbdde?style=flat-square&labelColor=ffa93f)
 ![C](https://img.shields.io/badge/Language-C-8fbdde?style=flat-square&labelColor=ffa93f)
 ![Status](https://img.shields.io/badge/STATUS-IN%20PROGRESS-d8e9a2?style=flat-square&labelColor=ffa93f)
+
+*A function that returns a line read from a
+file descriptor*
+
+<br/>
+
+[![PUSH_SWAP](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2000&pause=999&color=d8e9a2&center=true&vCenter=true&width=420&lines=★+VERIFIED+★+PUSH_SWAP+IN+PROGRESS+★)](https://github.com/Fyp07/ft_printf)
+
+<a href="https://github.com/Fyp07/ft_printf">
+  <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/IP_PUSH_SWAP.svg" width="200"/>
+</a>
+
+![push_swap](https://img.shields.io/badge/Project-push_swap-8fbdde?style=flat-square&labelColor=ffa93f)
+![C](https://img.shields.io/badge/Language-C-8fbdde?style=flat-square&labelColor=ffa93f)
 
 *...*
 
