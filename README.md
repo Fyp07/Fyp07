@@ -55,7 +55,7 @@ Porto, Portugal
 [![LIBFT](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2000&pause=999&color=FAC1B0&center=true&vCenter=true&width=340&lines=★+VERIFIED+★+LIBFT+COMPLETED+★)](https://github.com/Fyp07/libft)
 
 <a href="https://github.com/Fyp07/libft">
-  <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/LIBFT_COMPLETED_2.svg" width="200"/>
+  <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/LIBFT_COMPLETED.svg" width="200"/>
 </a>
 
 ![Libft](https://img.shields.io/badge/Project-Libft-8fbdde?style=flat-square&labelColor=ffa93f)
@@ -69,7 +69,7 @@ Porto, Portugal
 [![FT_PRINTF](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2000&pause=999&color=8FBDDE&center=true&vCenter=true&width=420&lines=★+VERIFIED+★+FT_PRINTF+COMPLETED+★)](https://github.com/Fyp07/ft_printf)
 
 <a href="https://github.com/Fyp07/ft_printf">
-  <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/FT_PRINTF_COMPLETED_1.svg" width="200"/>
+  <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/FT_PRINTF_COMPLETED_2.svg" width="200"/>
 </a>
 
 ![ft_printf](https://img.shields.io/badge/Project-ft_printf-8fbdde?style=flat-square&labelColor=ffa93f)
@@ -83,7 +83,7 @@ Porto, Portugal
 [![GET_NEXT_LINE](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2000&pause=999&color=fcf1d1&center=true&vCenter=true&width=450&lines=★+VERIFIED+★+GET_NEXT_LINE+COMPLETED+★)](https://github.com/Fyp07/get_next_line)
 
 <a href="https://github.com/Fyp07/get_next_line">
-  <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/GET_NEXT_LINE_COMPLETED.svg" width="200"/>
+  <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/GET_NEXT_LINE_COMPLETED_1.svg" width="200"/>
 </a>
 
 ![get_next_line](https://img.shields.io/badge/Project-get__next__line-8fbdde?style=flat-square&labelColor=ffa93f)
