@@ -33,13 +33,11 @@ Porto, Portugal
 "I can do all things through Christ" · Phil 4:13
 ```
 
-<table align="center" border="0">
-  <tr>
-    <td><img src="https://github.com/Fyp07/Fyp07/raw/main/assets/gif1.gif" width="150"/></td>
-    <td><img src="https://github.com/Fyp07/Fyp07/raw/main/assets/tyler-the-creator.gif" width="200"/></td>
-    <td><img src="https://github.com/Fyp07/Fyp07/raw/main/assets/gif3.gif" width="150"/></td>
-  </tr>
-</table>
+<div align="center">
+<img src="https://github.com/Fyp07/Fyp07/raw/main/assets/tyler-the-creator-don't-tap-the-glass.gif" width="150"/>&nbsp;&nbsp;
+<img src="https://github.com/Fyp07/Fyp07/raw/main/assets/tyler-the-creator.gif" width="200"/>&nbsp;&nbsp;
+<img src="https://github.com/Fyp07/Fyp07/raw/main/assets/tyler-the-creator-chromakopia.gif" width="150"/>
+</div>
 
 ---
 
