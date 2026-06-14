@@ -100,11 +100,12 @@ file descriptor*
 [![PUSH_SWAP](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2000&pause=999&color=d8e9a2&center=true&vCenter=true&width=420&lines=★+VERIFIED+★+PUSH_SWAP+IN+PROGRESS+★)](https://github.com/Fyp07/ft_printf)
 
 <a href="https://github.com/Fyp07/ft_printf">
-  <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/IP_PUSH_SWAP.svg" width="200"/>
+  <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/IP_PUSH_SWAP_1.svg" width="200"/>
 </a>
 
 ![push_swap](https://img.shields.io/badge/Project-push_swap-8fbdde?style=flat-square&labelColor=ffa93f)
 ![C](https://img.shields.io/badge/Language-C-8fbdde?style=flat-square&labelColor=ffa93f)
+![Status](https://img.shields.io/badge/STATUS-IN%20PROGRESS-d8e9a2?style=flat-square&labelColor=ffa93f)
 
 *...*
 
