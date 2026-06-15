@@ -99,7 +99,7 @@ file descriptor*
 
 [![PUSH_SWAP](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2000&pause=999&color=d8e9a2&center=true&vCenter=true&width=420&lines=★+VERIFIED+★+PUSH_SWAP+IN+PROGRESS+★)](https://github.com/Fyp07/ft_printf)
 
-<a href="https://github.com/Fyp07/ft_printf">
+<a href="https://github.com/Fyp07/Push_swap">
   <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/IP_PUSH_SWAP_1.svg" width="200"/>
 </a>
 
