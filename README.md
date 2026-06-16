@@ -34,9 +34,9 @@ Porto, Portugal
 ```
 
 <div align="center">
-<img src="https://github.com/Fyp07/Fyp07/raw/main/assets/tyler-the-creator-don't-tap-the-glass.gif" width="150"/>&nbsp;&nbsp;
+<img src="https://github.com/Fyp07/Fyp07/raw/main/assets/tyler-the-creator-don't-tap-the-glass.gif" width="200"/>&nbsp;&nbsp;
 <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/tyler-the-creator.gif" width="200"/>&nbsp;&nbsp;
-<img src="https://github.com/Fyp07/Fyp07/raw/main/assets/tyler-the-creator-chromakopia.gif" width="150"/>
+<img src="https://github.com/Fyp07/Fyp07/raw/main/assets/tyler-the-creator-chromakopia.gif" width="200"/>
 </div>
 
 ---
