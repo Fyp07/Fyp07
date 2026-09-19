@@ -104,18 +104,6 @@
 
 <div align="center">
 
-## ✦ THE STATS ✦ 
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fyp07&hide_border=true&background=fcf1d1&ring=ffa93f&fire=ffa93f&currStreakLabel=ffa93f&sideLabels=2d1410&dates=2d1410&currStreakNum=2d1410&sideNums=2d1410"/>
-
-</div>
-
----
-
-<div align="center">
-
 ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★
 
 *call me if you get lost · 42 Porto · Fyp07*
