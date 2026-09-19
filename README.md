@@ -110,6 +110,4 @@
 
 ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4&height=100&section=footer&reversal=true" width="100%"/>
-
 </div>
