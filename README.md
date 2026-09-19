@@ -22,18 +22,6 @@
 ---
 
 <div align="center">
-
-## ✦ ABOUT ME ✦
-
-</div>
-
-```txt
-Porto, Portugal
-42 Porto cadet · Learning C
-"I can do all things through Christ" · Phil 4:13
-```
-
-<div align="center">
 <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/tyler-the-creator-don't-tap-the-glass.gif" width="200"/>&nbsp;&nbsp;
 <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/tyler-the-creator.gif" width="200"/>&nbsp;&nbsp;
 <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/tyler-the-creator-chromakopia.gif" width="200"/>
@@ -52,66 +40,8 @@ Porto, Portugal
 
 <div align="center">
 
-## ✦ THE PROJECTS ✦
-
-[![LIBFT](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2000&pause=999&color=FAC1B0&center=true&vCenter=true&width=340&lines=★+VERIFIED+★+LIBFT+COMPLETED+★)](https://github.com/Fyp07/libft)
-
-<a href="https://github.com/Fyp07/libft">
-  <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/LIBFT_COMPLETED.svg" width="200"/>
-</a>
-
-![Libft](https://img.shields.io/badge/Project-Libft-8fbdde?style=flat-square&labelColor=ffa93f)
-![C](https://img.shields.io/badge/Language-C-8fbdde?style=flat-square&labelColor=ffa93f)
-![Status](https://img.shields.io/badge/STATUS-COMPLETED-d8e9a2?style=flat-square&labelColor=ffa93f)
-
-*Reimplementation of the C standard library: strings, memory, and linked lists from scratch.*
-
-<br/>
-
-[![FT_PRINTF](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2000&pause=999&color=8FBDDE&center=true&vCenter=true&width=420&lines=★+VERIFIED+★+FT_PRINTF+COMPLETED+★)](https://github.com/Fyp07/ft_printf)
-
-<a href="https://github.com/Fyp07/ft_printf">
-  <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/FT_PRINTF_COMPLETED_2.svg" width="200"/>
-</a>
-
-![ft_printf](https://img.shields.io/badge/Project-ft_printf-8fbdde?style=flat-square&labelColor=ffa93f)
-![C](https://img.shields.io/badge/Language-C-8fbdde?style=flat-square&labelColor=ffa93f)
-![Status](https://img.shields.io/badge/STATUS-COMPLETED-d8e9a2?style=flat-square&labelColor=ffa93f)
-
-*Reimplementation of printf in C: variadic functions and multiple format specifiers.*
-
-<br/>
-
-[![GET_NEXT_LINE](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2000&pause=999&color=fcf1d1&center=true&vCenter=true&width=450&lines=★+VERIFIED+★+GET_NEXT_LINE+COMPLETED+★)](https://github.com/Fyp07/get_next_line)
-
-<a href="https://github.com/Fyp07/get_next_line">
-  <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/GET_NEXT_LINE_COMPLETED_1.svg" width="200"/>
-</a>
-
-![get_next_line](https://img.shields.io/badge/Project-get__next__line-8fbdde?style=flat-square&labelColor=ffa93f)
-![C](https://img.shields.io/badge/Language-C-8fbdde?style=flat-square&labelColor=ffa93f)
-![Status](https://img.shields.io/badge/STATUS-COMPLETED-d8e9a2?style=flat-square&labelColor=ffa93f)
-
-*A function that returns a line read from a
-file descriptor*
-
-<br/>
-
-[![PUSH_SWAP](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2000&pause=999&color=d8e9a2&center=true&vCenter=true&width=420&lines=★+VERIFIED+★+PUSH_SWAP+IN+PROGRESS+★)](https://github.com/Fyp07/ft_printf)
-
-<a href="https://github.com/Fyp07/Push_swap">
-  <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/IP_PUSH_SWAP_1.svg" width="200"/>
-</a>
-
-![push_swap](https://img.shields.io/badge/Project-push_swap-8fbdde?style=flat-square&labelColor=ffa93f)
-![C](https://img.shields.io/badge/Language-C-8fbdde?style=flat-square&labelColor=ffa93f)
-![Status](https://img.shields.io/badge/STATUS-IN%20PROGRESS-d8e9a2?style=flat-square&labelColor=ffa93f)
-
-*...*
-
-</div>
-
----
+✦ THE PROJECTS ✦
+<table> <!-- LINHA 1 --> <tr> <td align="center" width="33%"> <a href="https://github.com/Fyp07/libft"> <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/LIBFT_COMPLETED.svg" width="150"/> </a> <br/><b>LIBFT</b> <br/><sub>✈️ a biblioteca de C, feita do zero</sub> <br/><sub>✅ CHECKED IN</sub> </td> <td align="center" width="33%"> <a href="https://github.com/Fyp07/ft_printf"> <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/FT_PRINTF_COMPLETED_2.svg" width="150"/> </a> <br/><b>FT_PRINTF</b> <br/><sub>✈️ o printf reconstruído</sub> <br/><sub>✅ CHECKED IN</sub> </td> <td align="center" width="33%"> <a href="https://github.com/Fyp07/get_next_line"> <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/GET_NEXT_LINE_COMPLETED_1.svg" width="150"/> </a> <br/><b>GET_NEXT_LINE</b> <br/><sub>✈️ lê um ficheiro linha a linha</sub> <br/><sub>✅ CHECKED IN</sub> </td> </tr> <!-- LINHA 2 --> <tr> <td align="center" width="33%"> <a href="https://github.com/Fyp07/Push_swap"> <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/IP_PUSH_SWAP_1.svg" width="150"/> </a> <br/><b>PUSH_SWAP</b> <br/><sub>✈️ ordenar números com o mínimo de movimentos</sub> <br/><sub>🕐 IN TRANSIT</sub> </td> <td align="center" width="33%"></td> <td align="center" width="33%"></td> </tr> </table> </div>
 
 <div align="center">
 
