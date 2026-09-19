@@ -17,8 +17,6 @@
 
 <p align="center"><i>★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★ ✦ ★</i></p>
 
-</div>
-
 ---
 
 <div align="center">
@@ -34,14 +32,75 @@
 ![C](https://img.shields.io/badge/C-8fbdde?style=for-the-badge&logo=c&logoColor=2d1410)
 ![Python](https://img.shields.io/badge/Python-d8e9a2?style=for-the-badge&logo=python&logoColor=2d1410)
 
-</div>
-
 ---
 
 <div align="center">
 
-✦ THE PROJECTS ✦
-<table> <!-- LINHA 1 --> <tr> <td align="center" width="33%"> <a href="https://github.com/Fyp07/libft"> <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/LIBFT_COMPLETED.svg" width="150"/> </a> <br/><b>LIBFT</b> <br/><sub>✈️ a biblioteca de C, feita do zero</sub> <br/><sub>✅ CHECKED IN</sub> </td> <td align="center" width="33%"> <a href="https://github.com/Fyp07/ft_printf"> <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/FT_PRINTF_COMPLETED_2.svg" width="150"/> </a> <br/><b>FT_PRINTF</b> <br/><sub>✈️ o printf reconstruído</sub> <br/><sub>✅ CHECKED IN</sub> </td> <td align="center" width="33%"> <a href="https://github.com/Fyp07/get_next_line"> <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/GET_NEXT_LINE_COMPLETED_1.svg" width="150"/> </a> <br/><b>GET_NEXT_LINE</b> <br/><sub>✈️ lê um ficheiro linha a linha</sub> <br/><sub>✅ CHECKED IN</sub> </td> </tr> <!-- LINHA 2 --> <tr> <td align="center" width="33%"> <a href="https://github.com/Fyp07/Push_swap"> <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/IP_PUSH_SWAP_1.svg" width="150"/> </a> <br/><b>PUSH_SWAP</b> <br/><sub>✈️ ordenar números com o mínimo de movimentos</sub> <br/><sub>🕐 IN TRANSIT</sub> </td> <td align="center" width="33%"></td> <td align="center" width="33%"></td> </tr> </table> </div>
+## ✦ 42 PROJECTS ✦
+
+<img src="https://github.com/Fyp07/Fyp07/raw/main/assets/MILESTONE_0.svg" width="220" alt="Milestone 0"/>
+
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/Fyp07/libft">
+        <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/LIBFT_COMPLETED.svg" width="150"/>
+      </a>
+      <br/><b>LIBFT</b>
+      <br/><sub>My C standard library</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github.com/Fyp07/Fyp07/raw/main/assets/MILESTONE_1.svg" width="220" alt="Milestone 1"/>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/Fyp07/ft_printf">
+        <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/FT_PRINTF_COMPLETED_2.svg" width="150"/>
+      </a>
+      <br/><b>FT_PRINTF</b>
+      <br/><sub>printf, rebuilt from scratch in C</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/Fyp07/get_next_line">
+        <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/GET_NEXT_LINE_COMPLETED_1.svg" width="150"/>
+      </a>
+      <br/><b>GET_NEXT_LINE</b>
+      <br/><sub>Reads a file one line at a time</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/Fyp07/Push_swap">
+        <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/PUSH_SWAP_COMPLETED.svg" width="150"/>
+      </a>
+      <br/><b>PUSH_SWAP</b>
+      <br/><sub>Sorts numbers in the fewest moves</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github.com/Fyp07/Fyp07/raw/main/assets/MILESTONE_2.svg" width="220" alt="Milestone 2"/>
+
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <!-- TEMPORARY: when your Python Modules SVG is ready, replace the 🧳 line below with:
+           <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/IP_PYTHON_MODULES.svg" width="150"/> -->
+      <a href="https://github.com/Fyp07/Python-Modules">🧳</a>
+      <br/><b>PYTHON MODULES</b>
+      <br/><sub>Python, one module at a time</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
 
 <div align="center">
 
