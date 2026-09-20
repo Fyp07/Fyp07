@@ -25,12 +25,14 @@
 <img src="https://github.com/Fyp07/Fyp07/raw/main/assets/tyler-the-creator-chromakopia.gif" width="200"/>
 </div>
 
----
+<div align="center">
 
-## ✦ THE LANGUAGES ✦
+<h2>✦ THE LANGUAGES ✦</h2>
 
 ![C](https://img.shields.io/badge/C-8fbdde?style=for-the-badge&logo=c&logoColor=2d1410)
 ![Python](https://img.shields.io/badge/Python-d8e9a2?style=for-the-badge&logo=python&logoColor=2d1410)
+
+</div>
 
 ---
 
@@ -44,7 +46,7 @@
   <tr>
     <td align="center" valign="top">
       <br/>
-      &emsp;<a href="https://github.com/Fyp07/libft"><img src="https://github.com/Fyp07/Fyp07/raw/main/assets/LIBFT_COMPLETED.svg" width="150"/></a>&emsp;
+      &emsp;<a href="https://github.com/Fyp07/libft"><img src="https://github.com/Fyp07/Fyp07/raw/main/assets/LIBFT.svg" width="150"/></a>&emsp;
       <br/><b>LIBFT</b>
       <br/><sub>My C standard library</sub>
       <br/>
@@ -60,21 +62,21 @@
   <tr>
     <td align="center" valign="top">
       <br/>
-      &emsp;<a href="https://github.com/Fyp07/ft_printf"><img src="https://github.com/Fyp07/Fyp07/raw/main/assets/FT_PRINTF_COMPLETED_2.svg" width="150"/></a>&emsp;
+      &emsp;<a href="https://github.com/Fyp07/ft_printf"><img src="https://github.com/Fyp07/Fyp07/raw/main/assets/FT_PRINTF.svg" width="150"/></a>&emsp;
       <br/><b>FT_PRINTF</b>
       <br/><sub>printf, rebuilt from scratch in C</sub>
       <br/>
     </td>
     <td align="center" valign="top">
       <br/>
-      &emsp;<a href="https://github.com/Fyp07/get_next_line"><img src="https://github.com/Fyp07/Fyp07/raw/main/assets/GET_NEXT_LINE_COMPLETED_1.svg" width="150"/></a>&emsp;
+      &emsp;<a href="https://github.com/Fyp07/get_next_line"><img src="https://github.com/Fyp07/Fyp07/raw/main/assets/GNL.svg" width="150"/></a>&emsp;
       <br/><b>GET_NEXT_LINE</b>
       <br/><sub>Reads a file one line at a time</sub>
       <br/>
     </td>
     <td align="center" valign="top">
       <br/>
-      &emsp;<a href="https://github.com/Fyp07/Push_swap"><img src="https://github.com/Fyp07/Fyp07/raw/main/assets/PUSH_SWAP_COMPLETED.svg" width="150"/></a>&emsp;
+      &emsp;<a href="https://github.com/Fyp07/Push_swap"><img src="https://github.com/Fyp07/Fyp07/raw/main/assets/PUSH_SWAP.svg" width="150"/></a>&emsp;
       <br/><b>PUSH_SWAP</b>
       <br/><sub>Sorts numbers in the fewest moves</sub>
       <br/>
